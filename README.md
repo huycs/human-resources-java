@@ -1,1 +1,1 @@
-Human resource management using java
+Human resource management project using java
